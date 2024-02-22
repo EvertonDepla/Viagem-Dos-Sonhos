@@ -1,0 +1,38 @@
+
+
+img {
+    width: 310px;
+    height: 290px;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section, footer{
+    margin: 40px;
+}
+
+header p {
+    color: white;
+    font-weight: 600;
+}
+
+h1{
+    font-size: 63px;
+    color: #303030;
+    padding: 15px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
